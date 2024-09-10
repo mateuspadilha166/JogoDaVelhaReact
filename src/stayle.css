@@ -1,0 +1,15 @@
+.board-row{
+   display: flex;
+}
+
+.status{
+    font-size: 24px;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    font-size: 24px;
+    justify-content: center;
+    align-items: center;
+}
